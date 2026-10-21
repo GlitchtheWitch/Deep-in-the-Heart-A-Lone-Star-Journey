@@ -1,11 +1,6 @@
 """
 Function Library
-
-Student Name: C. Rose Marchant
-UTSA ID: ELU794
-Section: 902
-
-Description: Bat City Collective — Your Personal Developer Toolkit.
+GlitchtheWitch Personal Toolkit.
 """
 import random
 
